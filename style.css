@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.body {
+    margin-top: 20rem;
+    background-color:hsl(0, 0%, 12%);
+  
+}
+
+.main {
+    max-width: 500px;
+    height: 650px;
+    background-color: hsl(0, 0%, 12%);
+    margin: auto;
+    border-radius: 1rem;
+    text-align: center;
+    font-family: "Inter";
+    padding: 3rem;
+    
+    
+}
+
+.body {
+    background-color: hsl(0, 0%, 8%);
+
+}
+
+.picture {
+    border-radius: 80%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+     width: 20%;
+     margin-top: -1%;
+}
+
+.name {
+    font-weight: 700;
+    color: white;
+    font-size: 2rem;
+    
+}
+
+.living {
+    font-size: 1rem; 
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+    margin-top: -3%;
+}
+
+.description {
+    color: grey;
+    margin-top: 6%;
+}
+
+.flex-container {
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+    
+   
+    
+}
+ .file {
+    
+    padding: 20px;
+    background-color:hsl(0, 0%, 20%);
+    text-decoration: none;
+    color:white;
+    border-radius: 1rem;
+    
+
+} 
+
+
